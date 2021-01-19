@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/3d graph.png</file>
+        <file>icons/Add.png</file>
+        <file>icons/adsdss.png</file>
+        <file>icons/Apply.png</file>
+        <file>icons/asd.jpeg</file>
+        <file>icons/CAAUmNO1.png</file>
+        <file>icons/Clear.png</file>
+        <file>icons/Create.png</file>
+        <file>icons/Database.png</file>
+        <file>icons/Downloads folder.png</file>
+        <file>icons/Find.png</file>
+        <file>icons/Folder.png</file>
+        <file>icons/globe_PNG5.png</file>
+        <file>icons/ico_main.ico</file>
+        <file>icons/icon.png</file>
+        <file>icons/logo.png</file>
+        <file>icons/Ok.png</file>
+        <file>icons/Pinion.png</file>
+        <file>icons/Play.png</file>
+        <file>icons/Registry.png</file>
+        <file>icons/rtl.png</file>
+        <file>icons/sadte.png</file>
+        <file>icons/sdr.jpg</file>
+        <file>icons/sdsv4.png</file>
+        <file>icons/Search.png</file>
+        <file>icons/Target.png</file>
+        <file>icons/Target1.png</file>
+        <file>icons/Thumbs up.png</file>
+        <file>icons/Touch.png</file>
+        <file>icons/Turn off.png</file>
+        <file>icons/unnamed.png</file>
+        <file>icons/YUV color space.png</file>
+        <file>icons/444.jpeg</file>
+        <file>icons/321.png</file>
+    </qresource>
+</RCC>
